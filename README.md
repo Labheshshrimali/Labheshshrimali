@@ -50,24 +50,45 @@ A local-first full-stack application for practicing interviews and analyzing spe
 
 ---
 
+### 🏥 HealthPortal
+
+A web-based healthcare portal for managing patient and healthcare-related information.
+
+**JavaScript · HTML · CSS**
+
+- Healthcare-focused web application
+- User-friendly interface for managing information
+- Frontend-based web application
+- Built as an academic software project
+
+[View Repository](https://github.com/Labheshshrimali/HealthPortal)
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
+
 Java · Python · C · JavaScript · SQL
 
 ### Frontend
+
 React · HTML · CSS · Vite
 
 ### Backend
+
 FastAPI · Node.js · Express · REST APIs
 
 ### Databases
+
 MySQL · PostgreSQL · MongoDB · SQLite
 
 ### AI/ML
+
 Machine Learning · NLP · Speech Processing · RAG · LLMs
 
 ### Tools
+
 Git · GitHub · Docker · Linux
 
 ---
